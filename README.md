@@ -10,6 +10,3 @@ The translation can be expressed mathematically as the vector sum of a constant 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbf{T}_v(\mathbf{x})=\mathbf{x}+\mathbf{v}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"/>
 
 In the following example, image (b) was obtained from image (a) by shifting each pixel 150 pixels to the left:
-
-
-

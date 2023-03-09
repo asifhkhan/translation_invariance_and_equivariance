@@ -1,1 +1,1 @@
-# translation_invariance_and_equivariance
+# Translation Invariance and Equivariance in Computer Vision

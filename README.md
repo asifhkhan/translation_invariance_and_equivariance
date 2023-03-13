@@ -14,9 +14,9 @@ In the following example, image (b) was obtained from image (a) by shifting each
 <img src="translation.jpg" alt= “” width="500" height="300">
 
 ## 3. Translation Invariance
-A certain property is translation invariant if it doesn’t change under any translation. Let’s consider the images above. We can recognize a woman in both images even though the pixel values were shifted. An image classifier should predict the label “woman” for both images. In fact, the classifier output should not be influenced by the position of the target. Hence, the output of the classifier function is translation invariant.
+A certain property is translation invariant if it doesn’t change under any translation. Let’s consider the images above. We can recognize a man in both images even though the pixel values were shifted. An image classifier should predict the label “man” for both images. In fact, the classifier output should not be influenced by the position of the target. Hence, the output of the classifier function is translation invariant.
 In the following figure, we illustrated schematically the translation invariance of an image classifier, whose classifier function is denoted as f: 
-<img src="t.jpg" alt= “” width="500" height="400">
+<img src="t.jpg" alt= “” width="400" height="300">
 
 ## 4. Translation Invariance
 Translation equivariance is a property often confused with translation invariance. So let’s recall the mathematical definition of equivariance.
